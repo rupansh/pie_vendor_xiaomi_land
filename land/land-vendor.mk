@@ -1708,7 +1708,6 @@ PRODUCT_PACKAGES += \
     datastatusnotification \
     ims \
     imssettings \
-    uceShimService \
     CNEService \
     com.qualcomm.location \
     dpmserviceapp \
